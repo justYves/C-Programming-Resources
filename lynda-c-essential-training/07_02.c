@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : 07_02.c
- Author      : 
+ Author      :
  Version     :
  Copyright   : Your copyright notice
  Description : Passing variables to functions, Ansi-style

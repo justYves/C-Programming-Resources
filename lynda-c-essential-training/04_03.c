@@ -1,7 +1,7 @@
-/*
+ /*
  ============================================================================
  Name        :04_03.c
- Author      : 
+ Author      :
  Version     :
  Copyright   : Your copyright notice
  Description : Built-in string functions, Ansi-style

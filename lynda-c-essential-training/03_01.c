@@ -1,7 +1,7 @@
-/*
+ /*
  ============================================================================
  Name        : 03_01.c
- Author      : 
+ Author      :
  Version     :
  Copyright   : Isac Artzi
  Description : Data types, Ansi-style

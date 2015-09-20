@@ -2,13 +2,13 @@
 
 int main(int argc, char *argv[])
 {
-  int centNumber;
+  double centNumber;
   printf("Please input a number in cm:\n");
-  scanf("%d",&centNumber);
+  scanf("%lf",&centNumber);
 
   int feet = centNumber / 30.48;
-  int inches = (centNumber - (feet * 30.48)) / 2.54;
-  printf("You're number is %d and it has %d ft %d inch",centNumber,feet,inches);
+  double inches = (centNumber - (feet * 30.48)) / 2.54;
+  printf("You're number is %d and it has %d ft %.1f inch", (int)centNumber,feet,inches);
 
-
+  return 0;
 }
